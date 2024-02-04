@@ -3,7 +3,7 @@ import { reckless_neue } from "@/app/styles/fonts";
 const Footer = () => {
   return (
     <footer className="w-full h-[50vh] bg-white border-t border-gray-400 flex justify-center items-center">
-      <div className="w-[1169px] h-[121px] 2xl:w-[90vw] border flex justify-between items-center ">
+      <div className="w-[1169px] h-[121px] 2xl:w-[90vw] flex justify-between items-center ">
         <div >
           <span className="text-[40px] font-bold">aBit</span>
           <br />
