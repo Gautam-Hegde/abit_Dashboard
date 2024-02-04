@@ -68,7 +68,7 @@ import dynamic from "next/dynamic";
                 <p>
                   <span className="text-gray-500 font-bold">Bio</span>
                   <br></br>
-                  Simply a film fan creating original content for YouTube. Let's
+                  Simply a film fan creating original content for YouTube. Let&apos;s
                   Collaborate.
                 </p>
               </CardDescription>
@@ -154,7 +154,7 @@ import dynamic from "next/dynamic";
               <div className="w-1.5 h-8 bg-gray-400 absolute rounded-full"></div>
             </CardContent>
             <CardFooter className="absolute bottom-4 text-center flex-col justify-end text-gray-700 opacity-55">
-              <p>You haven't uploaded any</p>
+              <p>You haven&apos;t uploaded any</p>
               <p>videos with aBit yet. Add now!</p>
             </CardFooter>
           </Card>
